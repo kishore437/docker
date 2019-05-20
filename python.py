@@ -11,4 +11,6 @@ print(string*5)
 
 print(string+string2)
 
+tuple = ('kishore','seshu')
 
+print(tuple)
