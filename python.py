@@ -11,4 +11,5 @@ print(string*5)
 
 print(string+string2)
 
+print(string1+string2)
 
