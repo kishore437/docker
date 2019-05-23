@@ -13,3 +13,4 @@ print(string+string2)
 
 print(string1+string2)
 
+print(string+string2)
